@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  feature_imageM: 1
+  feature_imageD: 1
+  feature_imageWorkM: 1
+  feature_imageWorkD: 1
+  linkLive: MyText
+  link2Source: MyText
+
+two:
+  name: MyString
+  description: MyText
+  feature_imageM: 1
+  feature_imageD: 1
+  feature_imageWorkM: 1
+  feature_imageWorkD: 1
+  linkLive: MyText
+  link2Source: MyText
